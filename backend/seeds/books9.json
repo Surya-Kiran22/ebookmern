@@ -1,0 +1,13 @@
+{
+  "books": [
+    {"url":"https://picsum.photos/seed/space1/400/600","title":"Odyssey of Stars I","author":"A. Nova","price":299,"desc":"A rookie pilot charts a perilous course through a collapsing nebula.","language":"English","category":"space odyssey"},
+    {"url":"https://picsum.photos/seed/space2/400/600","title":"Odyssey of Stars II","author":"A. Nova","price":339,"desc":"An ancient beacon awakens, broadcasting a map to a forgotten galaxy.","language":"English","category":"space odyssey"},
+    {"url":"https://picsum.photos/seed/space3/400/600","title":"Odyssey of Stars III","author":"A. Nova","price":389,"desc":"A science vessel uncovers life in the rings of a rogue planet.","language":"English","category":"space odyssey"},
+    {"url":"https://picsum.photos/seed/space4/400/600","title":"Odyssey of Stars IV","author":"A. Nova","price":429,"desc":"Smugglers and scholars race to decode a starborn language.","language":"English","category":"space odyssey"},
+    {"url":"https://picsum.photos/seed/space5/400/600","title":"Odyssey of Stars V","author":"A. Nova","price":479,"desc":"Time fractures aboard a deep-space relay near a black hole.","language":"English","category":"space odyssey"},
+    {"url":"https://picsum.photos/seed/space6/400/600","title":"Odyssey of Stars VI","author":"A. Nova","price":529,"desc":"A diplomat must negotiate with an AI-run civilization of suns.","language":"English","category":"space odyssey"},
+    {"url":"https://picsum.photos/seed/space7/400/600","title":"Odyssey of Stars VII","author":"A. Nova","price":579,"desc":"A derelict ark drifts back into known space with a warning.","language":"English","category":"space odyssey"},
+    {"url":"https://picsum.photos/seed/space8/400/600","title":"Odyssey of Stars VIII","author":"A. Nova","price":629,"desc":"Terraformers vanish on the eve of igniting a newborn world.","language":"English","category":"space odyssey"},
+    {"url":"https://picsum.photos/seed/space9/400/600","title":"Odyssey of Stars IX","author":"A. Nova","price":699,"desc":"The crew confronts the architect behind a cosmic labyrinth.","language":"English","category":"space odyssey"}
+  ]
+}

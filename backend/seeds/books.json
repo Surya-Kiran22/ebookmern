@@ -1,0 +1,52 @@
+{
+  "books": [
+    {"url":"https://picsum.photos/seed/horror1/400/600","title":"Horrors Book 1","author":"Horror Author","price":399,"desc":"A chilling tale of fear and mystery.","language":"English","category":"horrors"},
+    {"url":"https://picsum.photos/seed/horror2/400/600","title":"Horrors Book 2","author":"Horror Author","price":449,"desc":"Nightmares come alive in the dark.","language":"English","category":"horrors"},
+    {"url":"https://picsum.photos/seed/horror3/400/600","title":"Horrors Book 3","author":"Horror Author","price":529,"desc":"Creeping dread in an abandoned town.","language":"English","category":"horrors"},
+    {"url":"https://picsum.photos/seed/horror4/400/600","title":"Horrors Book 4","author":"Horror Author","price":599,"desc":"Whispers echo through empty halls.","language":"English","category":"horrors"},
+    {"url":"https://picsum.photos/seed/horror5/400/600","title":"Horrors Book 5","author":"Horror Author","price":699,"desc":"A haunted past returns for revenge.","language":"English","category":"horrors"},
+    {"url":"https://picsum.photos/seed/horror6/400/600","title":"Horrors Book 6","author":"Horror Author","price":849,"desc":"Secrets buried beneath the floorboards.","language":"English","category":"horrors"},
+
+    {"url":"https://picsum.photos/seed/comex1/400/600","title":"Comex Book 1","author":"Comex Author","price":299,"desc":"A vibrant collection of comic adventures.","language":"English","category":"comex"},
+    {"url":"https://picsum.photos/seed/comex2/400/600","title":"Comex Book 2","author":"Comex Author","price":339,"desc":"Heroes rise against impossible odds.","language":"English","category":"comex"},
+    {"url":"https://picsum.photos/seed/comex3/400/600","title":"Comex Book 3","author":"Comex Author","price":379,"desc":"Panels bursting with action and heart.","language":"English","category":"comex"},
+    {"url":"https://picsum.photos/seed/comex4/400/600","title":"Comex Book 4","author":"Comex Author","price":429,"desc":"Witty quips and bold battles.","language":"English","category":"comex"},
+    {"url":"https://picsum.photos/seed/comex5/400/600","title":"Comex Book 5","author":"Comex Author","price":489,"desc":"A universe of connected storylines.","language":"English","category":"comex"},
+    {"url":"https://picsum.photos/seed/comex6/400/600","title":"Comex Book 6","author":"Comex Author","price":549,"desc":"Legends forged in ink and color.","language":"English","category":"comex"},
+
+    {"url":"https://picsum.photos/seed/journals1/400/600","title":"Journals Book 1","author":"Journal Author","price":249,"desc":"Daily reflections and discoveries.","language":"English","category":"journals"},
+    {"url":"https://picsum.photos/seed/journals2/400/600","title":"Journals Book 2","author":"Journal Author","price":269,"desc":"A year of mindful observations.","language":"English","category":"journals"},
+    {"url":"https://picsum.photos/seed/journals3/400/600","title":"Journals Book 3","author":"Journal Author","price":319,"desc":"Sketches, notes, and inspirations.","language":"English","category":"journals"},
+    {"url":"https://picsum.photos/seed/journals4/400/600","title":"Journals Book 4","author":"Journal Author","price":359,"desc":"Moments captured on every page.","language":"English","category":"journals"},
+    {"url":"https://picsum.photos/seed/journals5/400/600","title":"Journals Book 5","author":"Journal Author","price":399,"desc":"A companion for thoughtful living.","language":"English","category":"journals"},
+    {"url":"https://picsum.photos/seed/journals6/400/600","title":"Journals Book 6","author":"Journal Author","price":459,"desc":"Chronicles of a curious mind.","language":"English","category":"journals"},
+
+    {"url":"https://picsum.photos/seed/gk1/400/600","title":"General Knowledge Book 1","author":"GK Author","price":349,"desc":"Trivia and facts from around the world.","language":"English","category":"general knowledge"},
+    {"url":"https://picsum.photos/seed/gk2/400/600","title":"General Knowledge Book 2","author":"GK Author","price":389,"desc":"Expand your understanding daily.","language":"English","category":"general knowledge"},
+    {"url":"https://picsum.photos/seed/gk3/400/600","title":"General Knowledge Book 3","author":"GK Author","price":429,"desc":"Quick bites of essential knowledge.","language":"English","category":"general knowledge"},
+    {"url":"https://picsum.photos/seed/gk4/400/600","title":"General Knowledge Book 4","author":"GK Author","price":479,"desc":"A compendium of curious facts.","language":"English","category":"general knowledge"},
+    {"url":"https://picsum.photos/seed/gk5/400/600","title":"General Knowledge Book 5","author":"GK Author","price":529,"desc":"From science to history and more.","language":"English","category":"general knowledge"},
+    {"url":"https://picsum.photos/seed/gk6/400/600","title":"General Knowledge Book 6","author":"GK Author","price":589,"desc":"Sharpen your quiz skills.","language":"English","category":"general knowledge"},
+
+    {"url":"https://picsum.photos/seed/advan1/400/600","title":"Advanchers Book 1","author":"Adventure Author","price":419,"desc":"Journeys to the edge of the map.","language":"English","category":"advanchers"},
+    {"url":"https://picsum.photos/seed/advan2/400/600","title":"Advanchers Book 2","author":"Adventure Author","price":469,"desc":"Peril, courage, and discovery.","language":"English","category":"advanchers"},
+    {"url":"https://picsum.photos/seed/advan3/400/600","title":"Advanchers Book 3","author":"Adventure Author","price":519,"desc":"Across deserts, seas, and skies.","language":"English","category":"advanchers"},
+    {"url":"https://picsum.photos/seed/advan4/400/600","title":"Advanchers Book 4","author":"Adventure Author","price":579,"desc":"Legends born on the trail.","language":"English","category":"advanchers"},
+    {"url":"https://picsum.photos/seed/advan5/400/600","title":"Advanchers Book 5","author":"Adventure Author","price":639,"desc":"Explorers united by destiny.","language":"English","category":"advanchers"},
+    {"url":"https://picsum.photos/seed/advan6/400/600","title":"Advanchers Book 6","author":"Adventure Author","price":699,"desc":"Mountains climbed, mysteries solved.","language":"English","category":"advanchers"},
+
+    {"url":"https://picsum.photos/seed/jsp1/400/600","title":"JSP,Servlets Book 1","author":"Java Web Author","price":499,"desc":"Foundations of JSP and Servlets.","language":"English","category":"jsp,servlets"},
+    {"url":"https://picsum.photos/seed/jsp2/400/600","title":"JSP,Servlets Book 2","author":"Java Web Author","price":559,"desc":"Sessions, filters, and listeners.","language":"English","category":"jsp,servlets"},
+    {"url":"https://picsum.photos/seed/jsp3/400/600","title":"JSP,Servlets Book 3","author":"Java Web Author","price":619,"desc":"JSTL and MVC patterns.","language":"English","category":"jsp,servlets"},
+    {"url":"https://picsum.photos/seed/jsp4/400/600","title":"JSP,Servlets Book 4","author":"Java Web Author","price":679,"desc":"Security and deployment best practices.","language":"English","category":"jsp,servlets"},
+    {"url":"https://picsum.photos/seed/jsp5/400/600","title":"JSP,Servlets Book 5","author":"Java Web Author","price":739,"desc":"Integrating JDBC and ORM.","language":"English","category":"jsp,servlets"},
+    {"url":"https://picsum.photos/seed/jsp6/400/600","title":"JSP,Servlets Book 6","author":"Java Web Author","price":799,"desc":"Advanced performance tuning.","language":"English","category":"jsp,servlets"},
+
+    {"url":"https://picsum.photos/seed/mern1/400/600","title":"MERN Larnings Book 1","author":"MERN Author","price":549,"desc":"Intro to MongoDB, Express, React, Node.","language":"English","category":"mern larnings"},
+    {"url":"https://picsum.photos/seed/mern2/400/600","title":"MERN Larnings Book 2","author":"MERN Author","price":589,"desc":"REST APIs with Express and Mongoose.","language":"English","category":"mern larnings"},
+    {"url":"https://picsum.photos/seed/mern3/400/600","title":"MERN Larnings Book 3","author":"MERN Author","price":629,"desc":"React state management and routing.","language":"English","category":"mern larnings"},
+    {"url":"https://picsum.photos/seed/mern4/400/600","title":"MERN Larnings Book 4","author":"MERN Author","price":679,"desc":"JWT auth and middleware patterns.","language":"English","category":"mern larnings"},
+    {"url":"https://picsum.photos/seed/mern5/400/600","title":"MERN Larnings Book 5","author":"MERN Author","price":729,"desc":"Deployment strategies and CI/CD.","language":"English","category":"mern larnings"},
+    {"url":"https://picsum.photos/seed/mern6/400/600","title":"MERN Larnings Book 6","author":"MERN Author","price":789,"desc":"Scaling and performance tuning.","language":"English","category":"mern larnings"}
+  ]
+}

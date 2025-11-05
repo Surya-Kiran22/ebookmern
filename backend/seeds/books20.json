@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "url": "https://picsum.photos/seed/conan1/400/600",
+      "title": "Detective Conan: Case File 1",
+      "author": "Gosho Aoyama",
+      "price": 1200,
+      "desc": "A high school sleuth unravels a chilling case with sharp deductions.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan2/400/600",
+      "title": "Detective Conan: Case File 2",
+      "author": "Gosho Aoyama",
+      "price": 1250,
+      "desc": "A cryptic note leads to a dangerous cat-and-mouse chase.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan3/400/600",
+      "title": "Detective Conan: Case File 3",
+      "author": "Gosho Aoyama",
+      "price": 1300,
+      "desc": "An alibi too perfect hides an unexpected twist.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan4/400/600",
+      "title": "Detective Conan: Case File 4",
+      "author": "Gosho Aoyama",
+      "price": 1350,
+      "desc": "A locked-room mystery tests the limits of logic.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan5/400/600",
+      "title": "Detective Conan: Case File 5",
+      "author": "Gosho Aoyama",
+      "price": 1400,
+      "desc": "A coded message reveals the culprit’s hidden motive.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan6/400/600",
+      "title": "Detective Conan: Case File 6",
+      "author": "Gosho Aoyama",
+      "price": 1450,
+      "desc": "A midnight phone call sparks a race against time.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan7/400/600",
+      "title": "Detective Conan: Case File 7",
+      "author": "Gosho Aoyama",
+      "price": 1500,
+      "desc": "Footprints in the snow lead to an impossible crime.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan8/400/600",
+      "title": "Detective Conan: Case File 8",
+      "author": "Gosho Aoyama",
+      "price": 1550,
+      "desc": "A staged accident conceals a carefully planned heist.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan9/400/600",
+      "title": "Detective Conan: Case File 9",
+      "author": "Gosho Aoyama",
+      "price": 1600,
+      "desc": "Old secrets surface when a class reunion turns deadly.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan10/400/600",
+      "title": "Detective Conan: Case File 10",
+      "author": "Gosho Aoyama",
+      "price": 1650,
+      "desc": "A vanishing witness leaves behind a single enigmatic clue.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan11/400/600",
+      "title": "Detective Conan: Case File 11",
+      "author": "Gosho Aoyama",
+      "price": 1275,
+      "desc": "A museum gala is interrupted by a daring art theft.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan12/400/600",
+      "title": "Detective Conan: Case File 12",
+      "author": "Gosho Aoyama",
+      "price": 1325,
+      "desc": "A melody hides the key to exposing the criminal mastermind.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan13/400/600",
+      "title": "Detective Conan: Case File 13",
+      "author": "Gosho Aoyama",
+      "price": 1375,
+      "desc": "A cryptic crossword masks a deadly ultimatum.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan14/400/600",
+      "title": "Detective Conan: Case File 14",
+      "author": "Gosho Aoyama",
+      "price": 1425,
+      "desc": "A magician’s final trick reveals a fatal secret.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan15/400/600",
+      "title": "Detective Conan: Case File 15",
+      "author": "Gosho Aoyama",
+      "price": 1475,
+      "desc": "A forged alibi crumbles under forensic scrutiny.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan16/400/600",
+      "title": "Detective Conan: Case File 16",
+      "author": "Gosho Aoyama",
+      "price": 1525,
+      "desc": "A midnight train witness disappears between stations.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan17/400/600",
+      "title": "Detective Conan: Case File 17",
+      "author": "Gosho Aoyama",
+      "price": 1575,
+      "desc": "A festival fireworks show covers the culprit’s escape.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan18/400/600",
+      "title": "Detective Conan: Case File 18",
+      "author": "Gosho Aoyama",
+      "price": 1625,
+      "desc": "An heirloom pendant holds more than sentimental value.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan19/400/600",
+      "title": "Detective Conan: Case File 19",
+      "author": "Gosho Aoyama",
+      "price": 1675,
+      "desc": "A chess match with a criminal mind reaches checkmate.",
+      "language": "Japanese",
+      "category": "general"
+    },
+    {
+      "url": "https://picsum.photos/seed/conan20/400/600",
+      "title": "Detective Conan: Case File 20",
+      "author": "Gosho Aoyama",
+      "price": 1725,
+      "desc": "The final clue was hidden in plain sight all along.",
+      "language": "Japanese",
+      "category": "general"
+    }
+  ]
+}
